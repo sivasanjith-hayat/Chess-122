@@ -1,0 +1,6 @@
+{
+  "name": "REGRET CHESS 3D",
+  "description": "Playable 3D chess where your opponent bot thinks out loud, reveals what it almost played, and laments its biggest regrets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
